@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E3BA4549-93A7-41B8-A9A2-08A088825C5C}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FastFoodApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

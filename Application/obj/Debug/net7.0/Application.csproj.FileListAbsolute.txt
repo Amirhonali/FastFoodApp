@@ -1,0 +1,17 @@
+/Users/amirhon/Projects/FastFoodApi/Application/bin/Debug/net7.0/Application.deps.json
+/Users/amirhon/Projects/FastFoodApi/Application/bin/Debug/net7.0/Application.dll
+/Users/amirhon/Projects/FastFoodApi/Application/bin/Debug/net7.0/Application.pdb
+/Users/amirhon/Projects/FastFoodApi/Application/bin/Debug/net7.0/Domain.dll
+/Users/amirhon/Projects/FastFoodApi/Application/bin/Debug/net7.0/Domain.pdb
+/Users/amirhon/Projects/FastFoodApi/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/amirhon/Projects/FastFoodApi/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhon/Projects/FastFoodApi/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/amirhon/Projects/FastFoodApi/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/amirhon/Projects/FastFoodApi/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/amirhon/Projects/FastFoodApi/Application/obj/Debug/net7.0/Application.dll
+/Users/amirhon/Projects/FastFoodApi/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/amirhon/Projects/FastFoodApi/Application/obj/Debug/net7.0/Application.pdb
+/Users/amirhon/Projects/FastFoodApi/Application/obj/Debug/net7.0/ref/Application.dll
+/Users/amirhon/Projects/FastFoodApi/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+/Users/amirhon/Projects/FastFoodApi/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
+/Users/amirhon/Projects/FastFoodApi/Application/obj/Debug/net7.0/Application.csproj.CopyComplete

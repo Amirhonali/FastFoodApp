@@ -1,0 +1,84 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\.DS_Store))">
+      <SourceType>Package</SourceType>
+      <SourceId>FastFoodApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FastFoodApi</BasePath>
+      <RelativePath>.DS_Store</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\.DS_Store))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\126072ef-a196-4f54-8cf3-5365cbed67db_Снимок экрана 2024-11-10 в 10.53.16.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>FastFoodApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FastFoodApi</BasePath>
+      <RelativePath>images/126072ef-a196-4f54-8cf3-5365cbed67db_Снимок экрана 2024-11-10 в 10.53.16.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\126072ef-a196-4f54-8cf3-5365cbed67db_Снимок экрана 2024-11-10 в 10.53.16.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\59d86da0-a025-422c-9903-f9e09125cc6b_Снимок экрана 2024-11-09 в 21.11.48.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>FastFoodApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FastFoodApi</BasePath>
+      <RelativePath>images/59d86da0-a025-422c-9903-f9e09125cc6b_Снимок экрана 2024-11-09 в 21.11.48.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\59d86da0-a025-422c-9903-f9e09125cc6b_Снимок экрана 2024-11-09 в 21.11.48.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\88246351-8e35-41c8-aa92-698610580777_Снимок экрана 2024-11-10 в 10.53.16.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>FastFoodApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FastFoodApi</BasePath>
+      <RelativePath>images/88246351-8e35-41c8-aa92-698610580777_Снимок экрана 2024-11-10 в 10.53.16.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\88246351-8e35-41c8-aa92-698610580777_Снимок экрана 2024-11-10 в 10.53.16.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ImagesRestaurant\a57641af-8663-4c4c-850a-2abfa6196193_Снимок экрана 2024-11-05 в 21.56.11.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>FastFoodApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FastFoodApi</BasePath>
+      <RelativePath>ImagesRestaurant/a57641af-8663-4c4c-850a-2abfa6196193_Снимок экрана 2024-11-05 в 21.56.11.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ImagesRestaurant\a57641af-8663-4c4c-850a-2abfa6196193_Снимок экрана 2024-11-05 в 21.56.11.png))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

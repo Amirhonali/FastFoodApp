@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/amirhon/Projects/FastFoodApi/FastFoodApi/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/amirhon/Projects/FastFoodApi/FastFoodApi/wwwroot/ImagesRestaurant/a57641af-8663-4c4c-850a-2abfa6196193_Снимок экрана 2024-11-05 в 21.56.11.png",
+      "PackagePath": "staticwebassets/ImagesRestaurant/a57641af-8663-4c4c-850a-2abfa6196193_Снимок экрана 2024-11-05 в 21.56.11.png"
+    },
+    {
+      "Id": "/Users/amirhon/Projects/FastFoodApi/FastFoodApi/wwwroot/images/126072ef-a196-4f54-8cf3-5365cbed67db_Снимок экрана 2024-11-10 в 10.53.16.png",
+      "PackagePath": "staticwebassets/images/126072ef-a196-4f54-8cf3-5365cbed67db_Снимок экрана 2024-11-10 в 10.53.16.png"
+    },
+    {
+      "Id": "/Users/amirhon/Projects/FastFoodApi/FastFoodApi/wwwroot/images/59d86da0-a025-422c-9903-f9e09125cc6b_Снимок экрана 2024-11-09 в 21.11.48.png",
+      "PackagePath": "staticwebassets/images/59d86da0-a025-422c-9903-f9e09125cc6b_Снимок экрана 2024-11-09 в 21.11.48.png"
+    },
+    {
+      "Id": "/Users/amirhon/Projects/FastFoodApi/FastFoodApi/wwwroot/images/88246351-8e35-41c8-aa92-698610580777_Снимок экрана 2024-11-10 в 10.53.16.png",
+      "PackagePath": "staticwebassets/images/88246351-8e35-41c8-aa92-698610580777_Снимок экрана 2024-11-10 в 10.53.16.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.FastFoodApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.FastFoodApi.props",
+      "PackagePath": "build\\FastFoodApi.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.FastFoodApi.props",
+      "PackagePath": "buildMultiTargeting\\FastFoodApi.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.FastFoodApi.props",
+      "PackagePath": "buildTransitive\\FastFoodApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

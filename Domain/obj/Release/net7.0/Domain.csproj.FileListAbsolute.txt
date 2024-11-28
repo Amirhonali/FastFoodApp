@@ -1,0 +1,11 @@
+/Users/amirhon/Projects/FastFoodApi/Domain/bin/Release/net7.0/Domain.deps.json
+/Users/amirhon/Projects/FastFoodApi/Domain/bin/Release/net7.0/Domain.dll
+/Users/amirhon/Projects/FastFoodApi/Domain/bin/Release/net7.0/Domain.pdb
+/Users/amirhon/Projects/FastFoodApi/Domain/obj/Release/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhon/Projects/FastFoodApi/Domain/obj/Release/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/amirhon/Projects/FastFoodApi/Domain/obj/Release/net7.0/Domain.AssemblyInfo.cs
+/Users/amirhon/Projects/FastFoodApi/Domain/obj/Release/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/amirhon/Projects/FastFoodApi/Domain/obj/Release/net7.0/Domain.dll
+/Users/amirhon/Projects/FastFoodApi/Domain/obj/Release/net7.0/refint/Domain.dll
+/Users/amirhon/Projects/FastFoodApi/Domain/obj/Release/net7.0/Domain.pdb
+/Users/amirhon/Projects/FastFoodApi/Domain/obj/Release/net7.0/ref/Domain.dll

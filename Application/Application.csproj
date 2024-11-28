@@ -1,0 +1,59 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Abstraction\" />
+    <None Remove="Repositories\" />
+    <None Remove="Validation\" />
+    <None Remove="DTO\" />
+    <None Remove="DTO\RestaurantDTO\" />
+    <None Remove="DTO\ProductDTO\" />
+    <None Remove="Services\" />
+    <None Remove="Models\" />
+    <None Remove="Extentions\" />
+    <None Remove="DTO\UserDTO\" />
+    <None Remove="Mappings\" />
+    <None Remove="DTO\PermissionDTO\" />
+    <None Remove="DTO\RoleDTO\" />
+    <None Remove="DTO\CartDTO\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Abstraction\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Validation\" />
+    <Folder Include="DTO\" />
+    <Folder Include="DTO\RestaurantDTO\" />
+    <Folder Include="DTO\ProductDTO\" />
+    <Folder Include="Services\" />
+    <Folder Include="Models\" />
+    <Folder Include="Extentions\" />
+    <Folder Include="DTO\UserDTO\" />
+    <Folder Include="Mappings\" />
+    <Folder Include="DTO\PermissionDTO\" />
+    <Folder Include="DTO\RoleDTO\" />
+    <Folder Include="DTO\CartDTO\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.2" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.2">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.5" />
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="RestSharp" Version="112.1.0" />
+    <PackageReference Include="MailKit" Version="4.5.0" />
+    <PackageReference Include="Stripe.net" Version="47.0.0" />
+  </ItemGroup>
+</Project>
